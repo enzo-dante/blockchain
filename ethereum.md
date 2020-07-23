@@ -95,6 +95,18 @@ the mining incentive model culminates in a proof-of-work puzzle winner miner.
 
 - other miners are called ommers that produce ommer blockes.
 
+External Owned Accounts (EOA) are controlled by private keys.
+
+externally owned accounts (EOA) can send transactions in Ethereum Homestead.
+
+the correct sequence involved in a block creation:
+
+1. Transaction initiated
+2. Transactions validated
+3. Transactions Bundled & broadcasted
+4. Proof of work consensus problem solved
+5. Block added to the local chain and propagated to the network.
+
 ---
 
 Title of resource: Vitalik Buterin Doubles Down on Ethereum Incentive Strategy
