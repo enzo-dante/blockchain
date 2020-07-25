@@ -70,7 +70,7 @@ When the number of items differ from block to block.
 
 for example: number of transactions, number of states, number of receipts, we use the tree structure for computing the hash
 
-![](../imgs/merkel-tree-hash.md)
+![](../../imgs/merkel-tree-hash.md)
 
 What type of hash is used when there is a fixed number of items to be hashed, such as the items in a block header, and we are verifying the composite block integrity?
 
@@ -134,7 +134,7 @@ Now that we have the account address, let's look at the transaction initiated by
 
 The receiver gets the original data, and the secure hash digitally signed. Receiver can recompute the hash of the original data received, and compare it with the received hash to verify the integrity of the document.
 
-![](../imgs/key-pair-data-hashing.gif)
+![](../../imgs/key-pair-data-hashing.gif)
 
 ---
 
@@ -170,7 +170,7 @@ In Ethereum, the block hash is the hash of all the elements in the block header.
 
 - Every state change requires state root hash re-computation.
 
-![](../imgs/block-2-block.gif)
+![](../../imgs/block-2-block.gif)
 
 Block hash in Ethereum is computed by first computing the state root hash, transaction root hash and then receipt root hash, shown at the bottom of the block header.
 

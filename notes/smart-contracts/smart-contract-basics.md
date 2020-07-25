@@ -99,7 +99,7 @@ The payload of a transaction contains the bytecode for the smart contract.
 
 It is permanently stored in the EVM for future invocation.
 
-![](../imgs/smart-contract-deployments.gif)
+![](../../imgs/smart-contract-deployments.gif)
 
 What are used to determine the address of a contract?
 

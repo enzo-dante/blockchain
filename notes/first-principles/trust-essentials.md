@@ -45,7 +45,7 @@ Description: In this valuable TEDtalk of the complex (and confusing) technology,
 
 from the miners point of view in bitcoin and ethereum:
 
-![](../imgs/proof-of-work.gif)
+![](../../imgs/proof-of-work.gif)
 
 ---
 
