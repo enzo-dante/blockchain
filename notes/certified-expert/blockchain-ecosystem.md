@@ -25,3 +25,9 @@ in order for miners to add a block of transactions to the blockchain, they have 
 
 ![](../../imgs/blockchain-architecture.png)
 
+# blockchain exchanges 
+
+blockchain exchanges find the cheapest rates of exchange between any two cryptocurrencies thus making it more affordable to trade tokens or cryptocurrencies.
+
+exchanges used for trading could utilize hardware wallets or they can create their own wallets on an exchange website like coinbase.
+

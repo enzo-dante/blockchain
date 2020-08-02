@@ -1,3 +1,5 @@
+![](../../../imgs/public-vs-private-keys.png)
+
 # public key cryptography
 
 also known as symmetric key encryption, the earliest form of written encryption if the caesar encryption.
