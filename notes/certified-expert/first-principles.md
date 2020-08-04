@@ -106,10 +106,6 @@ merkle tree's hash nodes until it reaches a root node -- the merkle root.
 - the merkle root summarizes all the data (the associated transaction) and stored in the header to maintain integrity.
     - if you change any of the transactions it will change the hash and ultimately the merkel root.
 
-# wallets
-
-a wallet is a program that allows you to exchange cryptocurrency.
-
 ---
 
 # blockchain fundamentals
