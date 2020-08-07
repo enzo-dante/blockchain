@@ -25,8 +25,9 @@ the solution is to have a majority of honest/reliable generals (nodes in a distr
 miners compete to guess the nonce inside a block.
 - miners running algorithms to guess the nonce on gpu machines are rewarded and transaction fee.
 
-a nonce is just a random number in a block (influenced by the nonce) that makes the hash of the block start with a particular number of leading zeros.
+a nonce is just a random number in a block (influenced by the difficulty) that makes the hash of the block start with a particular number of leading zeros.
 - once the nonce is identified, the miner announces it to the whole network for validation on other nodes.
+- difficulty refers to the level of complexity to guess the nonce in the blockchain.
 
 ---
 
