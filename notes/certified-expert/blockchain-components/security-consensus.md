@@ -21,3 +21,31 @@ the solution is to have a majority of honest/reliable generals (nodes in a distr
 - this can lead to a 51% attack though
 
 ![](../../../imgs/consensus-types.png)
+
+miners compete to guess the nonce inside a block.
+- miners running algorithms to guess the nonce on gpu machines are rewarded and transaction fee.
+
+a nonce is just a random number in a block (influenced by the nonce) that makes the hash of the block start with a particular number of leading zeros.
+- once the nonce is identified, the miner announces it to the whole network for validation on other nodes.
+
+---
+
+![](../../../imgs/proof-of-work.png)
+
+![](../../../imgs/proof-of-work-validation.png)
+
+---
+
+![](../../../imgs/proof-of-stake.png)
+
+![](../../../imgs/delegate-pos.png)
+
+![](../../../imgs/proof-of-importance.png)
+
+![](../../../imgs/poet.png)
+
+![](../../../imgs/pbft.png)
+
+![](../../../imgs/dbft.png)
+
+![](../../../imgs/sbft.png)
